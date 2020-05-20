@@ -1,0 +1,1 @@
+本工程是提供了一个后台的单体基础框架采用springboot+spring-data-jpa实现的一个简单的基础框架，后面会添加springsecurity+jwt的安全性权限框架，本工程就仅供学习使用
