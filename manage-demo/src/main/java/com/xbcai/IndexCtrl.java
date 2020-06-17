@@ -1,4 +1,4 @@
-package com.xbcai.ctrl;
+package com.xbcai;
 
 import com.xbcai.model.User;
 import com.xbcai.service.user.UserService;
